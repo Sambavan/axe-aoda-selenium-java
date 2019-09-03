@@ -10,6 +10,6 @@ This repository was created as a resource for setting up axe-aoda with selenium-
     ```
 ### Via IDE
 1. Open your java IDE, import the project
-2. Use testng.xml to run the test that included accebility test 
-3. or you can run AODAtest for all accebility tests (right click on AODAtest and click Run)
+2. Use testng.xml to run the test that included accessibility test 
+3. or you can run AODAtest for all accessibility tests (right click on AODAtest and click Run)
 
